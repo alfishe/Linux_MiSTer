@@ -1,0 +1,3 @@
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/MiSTer-devel/Linux-Kernel_4.5.0_MiSTer
